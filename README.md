@@ -101,7 +101,7 @@ The CLI validates arguments and file states at each stage and prints clear diagn
 
 ## Program Flow & Architecture
 
-📄 **[View Full Presentation Deck (PDF)](./assets/presentation.pdf)**
+📄 **[View Full Presentation Deck (PDF)](./assets/image-steganography-presentation.pdf)**
 
 ### 1. Overview & LSB Payload Layout
 ![Project Overview](./assets/slide-1-project-overview.png)
