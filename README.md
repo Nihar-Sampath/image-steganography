@@ -95,7 +95,7 @@ The CLI validates arguments and file states at each stage and prints clear diagn
 - `Invalid Operation Type.` — First argument is neither `-e` nor `-d`.
 - `Invalid Number of arguments.` — Missing required cover image or secret file arguments.
 - `"<file>" is invalid. Please enter ".bmp" files only` — Cover or stego image lacks a `.bmp` extension.
-- `"<file>" is invalid. Please enter "file with an extention"` — Secret file has no extension separator (`.`).
+- `"<file>" is invalid. Please enter "file with an extension"` — Secret file has no extension separator (`.`).
 - `Not Enough Capacity` — Cover BMP resolution is too small to store the secret payload and metadata.
 - `Invalid Magic String.` — Entered magic string does not match the signature embedded in the stego image.
 
